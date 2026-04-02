@@ -54,14 +54,12 @@ I have successfully identified and responsibly disclosed a **Stored XSS via File
 * 🔍 Recon Automation Toolkit *(Coming Soon)*
 * 💣 XSS Master Payload List *(Coming Soon)*
 * 🧪 Bug Bounty Writeups *(Coming Soon)*
-* 📱 Android Pentesting Notes *(Coming Soon)*
-
+  
 ---
 
 ## 📈 Currently Learning
 
 * Advanced Web Exploitation
-* Android Application Security
 * Bug Bounty Methodologies
 
 ---
