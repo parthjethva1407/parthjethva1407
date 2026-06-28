@@ -11,7 +11,7 @@ Bug Bounty Researcher · DFIR · Threat Intelligence · Offensive Security · Tr
 I'm a cybersecurity student and independent security researcher with hands-on experience across offensive security, digital forensics, threat intelligence, and SOC operations. I build real tools, compete in CTFs, and hunt bugs on live programs.
 
 - 🎓 M.Sc. Cyber Security & Digital Forensics — Rashtriya Raksha University (2025–2027)
-- 🔍 DFIR Intern @ Heritage Cyber World — memory, disk & network artifact analysis
+- 🔍 DFIR Intern @ Heritage Cyber World — memory, disk & network artifact analysis (Jan 2025 - April 2025)
 - 🐛 Bug Bounty Hall of Fame — Stored XSS via File Upload @ RepAutomate (financial bounty)
 - 🏆 TryHackMe Top 1% Global
 
@@ -90,7 +90,7 @@ Designed a secure IoT communication framework on ESP32 implementing AES-256 and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-parthjethva-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/parthjethva)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/parthjethva1107)
-[![Portfolio](https://img.shields.io/badge/Portfolio-parthjethva1407.github.io-black?style=flat&logo=github)](https://parthjethva1407.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-parthjethva1407.github.io-black?style=flat&logo=github)]
 [![Email](https://img.shields.io/badge/Email-parthjethva1107@gmail.com-green?style=flat&logo=gmail)](mailto:parthjethva1107@gmail.com)
 
 ---
