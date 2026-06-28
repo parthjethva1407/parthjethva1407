@@ -1,6 +1,7 @@
 # Hi, I'm Parth Jethva 👋
 
 **M.Sc. Cyber Security & Digital Forensics · Rashtriya Raksha University** 
+
 Bug Bounty Researcher · DFIR · Threat Intelligence · Offensive Security · TryHackMe Top 1% Global
 
 ---
