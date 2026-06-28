@@ -90,7 +90,7 @@ Designed a secure IoT communication framework on ESP32 implementing AES-256 and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-parthjethva-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/parthjethva)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/parthjethva1107)
-[![Portfolio](https://img.shields.io/badge/Portfolio-parthjethva1407.github.io-black?style=flat&logo=github)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-parthjethva1407.github.io-black?style=flat&logo=github)](https://parthjethva1407.github.io)
 [![Email](https://img.shields.io/badge/Email-parthjethva1107@gmail.com-green?style=flat&logo=gmail)](mailto:parthjethva1107@gmail.com)
 
 ---
